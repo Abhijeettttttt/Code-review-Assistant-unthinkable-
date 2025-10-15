@@ -5,5 +5,10 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 3000
+  },
+  base: './',
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets'
   }
 })

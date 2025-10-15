@@ -4,7 +4,7 @@ import FileUpload from './components/FileUpload';
 import ReviewCard from './components/ReviewCard';
 import LoadingSpinner from './components/LoadingSpinner';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
 function App() {
   const [reviews, setReviews] = useState([]);

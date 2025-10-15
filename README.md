@@ -227,11 +227,26 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React & TailwindCSS** for the beautiful frontend
 - **Open Source Community** for inspiration and tools
 
+## 🌐 Live Demo & Deployment
+
+### Quick Deploy Options
+
+#### Frontend (Vercel)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Abhijeettttttt/Code-review-Assistant-unthinkable-&project-name=code-review-assistant&root-directory=frontend)
+
+#### Backend (Railway)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Abhijeettttttt/Code-review-Assistant-unthinkable-&envs=GEMINI_API_KEY)
+
+### Deployment Instructions
+- **Detailed Guide**: See [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md)
+- **Quick Fix**: If you got a 404 error on Vercel, check the deployment guide above
+
 ## 📞 Support & Contact
 
 - 🐛 **Found a bug?** [Open an issue](https://github.com/Abhijeettttttt/Code-review-Assistant-unthinkable-/issues)
 - 💡 **Have an idea?** [Start a discussion](https://github.com/Abhijeettttttt/Code-review-Assistant-unthinkable-/discussions)
 - 📧 **Need help?** Create an issue with the "help wanted" label
+- 🚀 **Deployment issues?** Check [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md)
 
 ---
 
